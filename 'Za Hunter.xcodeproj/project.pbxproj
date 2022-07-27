@@ -39,7 +39,6 @@
 		6804AE38289196A400A7012D = {
 			isa = PBXGroup;
 			children = (
-				6804AE5428919D7C00A7012D /* LocationDetailsView.swift */,
 				6804AE43289196A400A7012D /* 'Za Hunter */,
 				6804AE42289196A400A7012D /* Products */,
 			);
@@ -56,6 +55,7 @@
 		6804AE43289196A400A7012D /* 'Za Hunter */ = {
 			isa = PBXGroup;
 			children = (
+				6804AE5428919D7C00A7012D /* LocationDetailsView.swift */,
 				6804AE44289196A400A7012D /* _Za_HunterApp.swift */,
 				6804AE46289196A400A7012D /* ContentView.swift */,
 				6804AE52289197FC00A7012D /* LocationManager.swift */,
